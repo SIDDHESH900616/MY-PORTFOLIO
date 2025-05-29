@@ -1,0 +1,1 @@
+i have Designed and developed a personal portfolio website using HTML, CSS, and JavaScript to showcase projects, skills, and contact information. The site includes smooth navigation, a responsive layout for different screen sizes, and interactive elements powered by JavaScript. It highlights personal branding and web development skills.
